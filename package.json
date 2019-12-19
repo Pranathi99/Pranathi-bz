@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Pranathi99/Pranathi-bz/issues"
   },
-  "homepage": "https://github.com/Pranathi99/Pranathi-bz#readme"
+  "homepage": "https://github.com/Pranathi99/Pranathi-bz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
